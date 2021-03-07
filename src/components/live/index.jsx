@@ -4,7 +4,7 @@ import LIVEIcon from "./icon.svg";
 const styling = {
   background: "#D8D8D8",
   color: "#040404",
-  fontFamily: "sans-serif",
+  fontFamily: "Montserrat",
   padding: "25px"
 };
 
@@ -22,7 +22,7 @@ const Header = () => {
               style={{ boxShadow: "-20px 20px #2D3C72" }}
               width="80%"
               height="350px"
-              src="https://www.youtube.com/embed/live_stream?channel=12345"
+              src="https://www.youtube.com/embed/live_stream?channel=UCws_V5zg2Kk7DZt7MAeEoxA "
               frameborder="0"
               allowfullscreen
             ></iframe>
